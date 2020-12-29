@@ -1,0 +1,10 @@
+/* 02introBox.css */
+
+#introBox { position:fixed; top:0; left:0; z-index:1400;
+  width:100%; height:100vh; background-color: rgba(255,255,255,1);}
+
+.text_area { position:absolute; top:40%; left:0; right:0; margin:auto;
+  width:500px; height:100px;}
+
+#introBox button { position:absolute; bottom:90px; left:50%; transform: translateX(-50%);
+  width:100px; height:20px; background-color: #028;}

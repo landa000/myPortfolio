@@ -1,0 +1,13 @@
+/* main_all.css */
+
+@import url('./wrap.css');
+@import url('./headBox.css');
+@import url('./introBox.css');
+@import url('./mainBox.css');
+@import url('./profileBox.css');
+@import url('./container.css');
+@import url('./project01.css');
+@import url('./project02.css');
+@import url('./other.css');
+@import url('./footBox.css');
+

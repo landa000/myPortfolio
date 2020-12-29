@@ -1,0 +1,11 @@
+/* 01headBox.css */
+
+#headBox { position:fixed; top:0; left:0; z-index:1200;
+  width:100%; height:auto; min-height:60px;
+  box-sizing: border-box; padding: 0 30px;}
+
+h1 { float:left;}
+
+.index_area { float:right;}
+.index_area ul { width:100%; height:100%;}
+.index_area li { float:left; margin-left:20px;}

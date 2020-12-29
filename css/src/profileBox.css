@@ -1,0 +1,9 @@
+/* 04profileBox.css */
+
+#profileBox { width:100%; height:100vh; padding-top:10vh;
+  box-sizing: border-box;
+  background-color: #599;}
+
+.profile_area { width:700px; height:80vh; margin:auto;
+  background-color: #fff;}
+.profile_area .img_area { float:left; width:250px; height:100%; }
