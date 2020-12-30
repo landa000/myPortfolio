@@ -1,6 +1,6 @@
 /* 03mainBox.css */
 
 #mainBox { position:relative; width:100%; height:100vh;
-  background-color: #909;}
+  background-color: #059;}
 
   .scroll_down { position:absolute; bottom:40px; left:50%; transform:translateX(-50%);}
